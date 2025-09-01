@@ -1,6 +1,6 @@
 # Student Performance Analysis (SQL)
 
-## 🗝️ Overview
+## Overview
 This project investigates the factors influencing student success using a dataset containing study habits, sleep patterns, attendance, tutoring sessions, and extracurricular activities. By analyzing these variables, the goal is to identify key drivers of high exam scores and provide actionable insights for students and educators.
 
 ## 🎯Research Questions
